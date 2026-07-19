@@ -1,0 +1,29 @@
+#EXTM3U url-tvg="http://tvoetv.space/tvoetv.xml,http://tvoetv.space/tvoetv-humor.xml"
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Bn8vgDyG/Sabrina.png",Обновление 05.08.2023
+https://dl.dropbox.com/s/niuk91i87kjby3n/Sabrina-Boys_HD.mp4
+#EXTINF:-1 tvg-logo="http://tvoetv.space/tvoetv.png" tvg-id="tvoetv",Твоё ТВ HD v1
+http://tvoetv.space:8080/tvoetv/mpegts?token=MkP9_m4vd1
+#EXTINF:-1 tvg-logo="http://tvoetv.space/tvoetv.png" tvg-id="tvoetv",Твоё ТВ HD v2
+http://tvoetv.space:8080/tvoetv/index.m3u8
+#EXTINF:-1 tvg-logo="http://tvoetv.space/tvoetv.png" tvg-id="tvoetv",Твоё ТВ HD v3
+http://tvoetv.space:8080/tvoetv/video.m3u8
+#EXTINF:-1 tvg-logo="http://tvoetv.space/tvoetv.png" tvg-id="tvoetv",Твоё ТВ HD v4
+https://tvoetv.space/tvoetv/mpegts
+#EXTINF:-1 tvg-logo="http://tvoetv.space/tvoetv.png" tvg-id="tvoetv",Твоё ТВ HD v5
+https://tvoetv.space/tvoetv/index.m3u8
+#EXTINF:-1 tvg-logo="http://tvoetv.space/tvoetv.png" tvg-id="tvoetv",Твоё ТВ HD v6
+https://tvoetv.space/tvoetv/video.m3u8
+#EXTINF:-1 tvg-logo="http://tvoetv.space/tvoetv.png" tvg-id="tvoetv",Твоё ТВ HD v7
+https://tvoetv.space/tvoetv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://tvoetv.space/tvoetv.png" tvg-id="tvoetv",Твоё ТВ HD v8 с VPN
+http://stream1.servers.chd-tv.tk:80/Tvoe_tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/85hJM1pk/Tvoe-TV-Umor.png" tvg-id=""tvoetv-humor",Твоё ТВ HD Юмор v1
+http://tvoetv.space:8080/tvoetv_humor/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/85hJM1pk/Tvoe-TV-Umor.png" tvg-id=""tvoetv-humor",Твоё ТВ HD Юмор v2
+http://tvoetv.space:8080/tvoetv_humor/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/85hJM1pk/Tvoe-TV-Umor.png" tvg-id=""tvoetv-humor",Твоё ТВ HD Юмор v3
+https://tvoetv.space/tvoetv_humor/mpegts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/85hJM1pk/Tvoe-TV-Umor.png" tvg-id=""tvoetv-humor",Твоё ТВ HD Юмор v4
+https://tvoetv.space/tvoetv_humor/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/85hJM1pk/Tvoe-TV-Umor.png" tvg-id=""tvoetv-humor",Твоё ТВ HD Юмор v5
+https://tvoetv.space/tvoetv_humor/video.m3u8
