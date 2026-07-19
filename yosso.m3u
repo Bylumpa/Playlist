@@ -1,0 +1,10 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/Bylumpa/Playlist/refs/heads/main/epg.xml" refresh="86400"
+#EXTINF:0  tvg-id="elb1" tvg-name="Глава 27 (2006)" group-title="БИОГРАФИЧЕСКИЕ" tvg-logo="https://kinopoiskapiunofficial.tech/images/posters/kp/231080.jpg",Глава 27 (2006)
+#EXTGRP:БИОГРАФИЧЕСКИЕ
+http://cdn.balelbrus.com/vod/vvv/cdn/Pv3pWwvjEdt1YxYcmu4jT8lLTpN28Afa1GVviY3dChO5hTssfgNkgKfCHVUC.m3u8?token=Sm9objA1MDg4Mnx8U205b2JqRTVPREk9
+#EXTINF:0  tvg-id="elb364"  timeshift="3" tvg-name="Россия 1 HD" group-title="Эфирные" tvg-logo="https://p.rapidnas.org/img/logos/efir/rossia1.png",Россия 1 HD
+#EXTGRP:Эфирные
+http://cdn.balelbrus.com/ottplayer/bigteisti8/RUSSIA1/Sm9objA1MDg4Mnx8U205b2JqRTVPREk9/index.m3u8
+#EXTINF:0  tvg-id="elb319"  timeshift="3" tvg-name="НТВ HD" group-title="Эфирные" tvg-logo="https://p.rapidnas.org/img/logos/efir/ntv-white.png",НТВ HD
+#EXTGRP:Эфирные
+http://cdn.balelbrus.com/ottplayer/bigteisti8/ntvhd/Sm9objA1MDg4Mnx8U205b2JqRTVPREk9/index.m3u8
